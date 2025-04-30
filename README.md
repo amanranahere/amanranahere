@@ -1,6 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
 <table>
   <tr>
@@ -8,16 +7,9 @@
       <p align="left">
         My name is <strong>Aman Rana</strong>, and I'm a Computer Science undergrad passionate about full stack development and systems thinking. I enjoy exploring how things work and turning ideas into functional web experiences.
       </p>
+      <br><br><br><br><br>
             <div align="left">
-        <a href="mailto:amanranahere@gmail.com" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail Badge" />
-        </a>
-        <a href="https://www.linkedin.com/in/aman-rana-709a0a330/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn Badge" />
-        </a>
-        <a href="https://amanrana.vercel.app" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000&logoColor=white&style=for-the-badge" height="25" alt="Portfolio Badge" />
-        </a>
+        <a href="mailto:amanranahere@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail Badge" /></a>&nbsp;<a href="https://www.linkedin.com/in/aman-rana-709a0a330/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn Badge" /></a>&nbsp;<a href="https://amanrana.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000&logoColor=white&style=for-the-badge" height="25" alt="Portfolio Badge" /></a>
       </div>
     </td>
     <td valign="top">
