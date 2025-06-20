@@ -27,7 +27,7 @@
 
 <div align="left">
   <a href="mailto:amanranahere@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail Badge" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/aman-rana-709a0a330/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn Badge" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/amanrana-dev/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn Badge" /></a>&nbsp;
   <a href="https://amanrana.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000&logoColor=white&style=for-the-badge" height="25" alt="Portfolio Badge" /></a>
 </div>
 
